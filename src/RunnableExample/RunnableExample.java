@@ -12,6 +12,8 @@ public class RunnableExample {
         // Looking at commit without a comment......
         // Now I am going to mess with this.  but only in master - now what?
         // Example of an inner class for making a thread
+
+        // Adding some code to remove with a restore.
         Thread myThread = new Thread(new Runnable() {
 
             @Override
