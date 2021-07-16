@@ -9,6 +9,7 @@ public class RunnableExample {
 
         // Made another change to check git.
         // Changing something for git.
+        // Looking at commit without a comment...
 
         // Example of an inner class for making a thread
         Thread myThread = new Thread(new Runnable() {
