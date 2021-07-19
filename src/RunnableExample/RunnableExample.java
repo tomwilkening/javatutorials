@@ -13,6 +13,7 @@ public class RunnableExample {
         // Now I am going to mess with this.  but only in master - now what?
         // Example of an inner class for making a thread
         // Changing this on github to play with things
+        // Now trying the same thing with gitpull
 
         // Adding some code to remove with a restore.
         Thread myThread = new Thread(new Runnable() {
