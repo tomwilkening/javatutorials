@@ -14,6 +14,7 @@ public class RunnableExample {
         // Example of an inner class for making a thread
         // Changing this on github to play with things
         // Now trying the same thing with gitpull
+        // Now trying to pull from a test branch
 
         // Adding some code to remove with a restore.
         Thread myThread = new Thread(new Runnable() {
